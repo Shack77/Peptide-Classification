@@ -56,7 +56,7 @@ python your_script_name.py
 
 ---
 
-#### 📊 Output Format
+#### Output Format
 
 * Each line in `submission.txt` is either `+1` or `-1`, one per test sample.
 
